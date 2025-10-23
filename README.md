@@ -112,8 +112,8 @@ streamlit run traffic_sign_recog.py
 
 ## 👨‍💻 Author
 
-**Wasif Sohail**  
-[GitHub Profile](https://github.com/Wasif-Sohail55)
+**Ummee Habiba**  
+[GitHub Profile]([https://github.com/Ummee-Habiba])
 
 ---
 
